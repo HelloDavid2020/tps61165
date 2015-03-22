@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 22/03/2015 17:46:38
+
+BeginCmp
+TimeStamp = /550EFC50;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /550EFC56;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /550EFC5C;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /550EFC4A;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /550EFC3D;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /550F0003;
+Reference = D1;
+ValeurCmp = DIODESMA;
+IdModule  = SparkFun-SMA-DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /550EFDBC;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = SparkFun-1X03_LOCK_LONGPADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /550EFC1A;
+Reference = L1;
+ValeurCmp = INDUCTOR;
+IdModule  = inductor8x8;
+EndCmp
+
+BeginCmp
+TimeStamp = /550EFC12;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = SparkFun-1X02_LOCK_LONGPADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /550EFD2D;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /550EFD3A;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /550EFBF6;
+Reference = U1;
+ValeurCmp = TPS61165_DBV_6_DBV6;
+IdModule  = DBV6;
+EndCmp
+
+EndListe
