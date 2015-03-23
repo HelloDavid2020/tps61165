@@ -148,7 +148,7 @@ Wire Wire Line
 	3450 4350 3450 5550
 Connection ~ 5800 5550
 Wire Wire Line
-	5800 4400 6000 4400
+	5800 4400 6150 4400
 Wire Wire Line
 	6000 4800 6000 5550
 Connection ~ 6000 5550
@@ -286,4 +286,19 @@ F 3 "" H 5300 3150 60  0000 C CNN
 	1    5300 3150
 	1    0    0    -1  
 $EndComp
+$Comp
+L C C6
+U 1 1 551068A3
+P 6150 4600
+F 0 "C6" H 6150 4700 40  0000 L CNN
+F 1 "C" H 6156 4515 40  0000 L CNN
+F 2 "~" H 6188 4450 30  0000 C CNN
+F 3 "~" H 6150 4600 60  0000 C CNN
+	1    6150 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6150 4800 6150 5550
+Connection ~ 6150 5550
+Connection ~ 6000 4400
 $EndSCHEMATC
